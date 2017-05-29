@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9e0f77aa-a266-4ace-869d-7e326fe758be" name="Default" comment="" />
+=======
+    <list default="true" id="9e0f77aa-a266-4ace-869d-7e326fe758be" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+>>>>>>> 08583765285014b61de96d30e4ac1ae86f8c6aa2
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,6 +27,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
+<<<<<<< HEAD
               <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding>
                 <marker date="1496042742176" expanded="true" signature="1541:1888" ph="..." />
@@ -28,6 +37,10 @@
                 <marker date="1496042742176" expanded="true" signature="1949:2308" ph="{...}" />
                 <marker date="1496042742176" expanded="true" signature="2201:2300" ph="{...}" />
               </folding>
+=======
+              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="21" />
+              <folding />
+>>>>>>> 08583765285014b61de96d30e4ac1ae86f8c6aa2
             </state>
           </provider>
         </entry>
@@ -35,8 +48,13 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="452">
               <caret line="290" column="1" lean-forward="false" selection-start-line="290" selection-start-column="1" selection-end-line="290" selection-end-column="1" />
+=======
+            <state relative-caret-position="418">
+              <caret line="299" column="21" lean-forward="false" selection-start-line="299" selection-start-column="21" selection-end-line="299" selection-end-column="21" />
+>>>>>>> 08583765285014b61de96d30e4ac1ae86f8c6aa2
               <folding />
             </state>
           </provider>
@@ -144,12 +162,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496042017974</updated>
+<<<<<<< HEAD
       <workItem from="1496042023355" duration="728000" />
+=======
+      <workItem from="1496042023355" duration="512000" />
+>>>>>>> 08583765285014b61de96d30e4ac1ae86f8c6aa2
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="728000" />
+=======
+    <option name="totallyTimeSpent" value="512000" />
+>>>>>>> 08583765285014b61de96d30e4ac1ae86f8c6aa2
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -187,6 +213,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
+<<<<<<< HEAD
           <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <marker date="1496042742176" expanded="true" signature="1541:1888" ph="..." />
@@ -196,13 +223,22 @@
             <marker date="1496042742176" expanded="true" signature="1949:2308" ph="{...}" />
             <marker date="1496042742176" expanded="true" signature="2201:2300" ph="{...}" />
           </folding>
+=======
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="21" />
+          <folding />
+>>>>>>> 08583765285014b61de96d30e4ac1ae86f8c6aa2
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="452">
           <caret line="290" column="1" lean-forward="false" selection-start-line="290" selection-start-column="1" selection-end-line="290" selection-end-column="1" />
+=======
+        <state relative-caret-position="418">
+          <caret line="299" column="21" lean-forward="false" selection-start-line="299" selection-start-column="21" selection-end-line="299" selection-end-column="21" />
+>>>>>>> 08583765285014b61de96d30e4ac1ae86f8c6aa2
           <folding />
         </state>
       </provider>
