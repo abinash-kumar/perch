@@ -46,6 +46,10 @@ p {
 	font-size:15px;
 }
 
+ul{
+	padding: 0;
+}
+
 .clear:before {
 	content: "";
     display: table;
@@ -161,9 +165,10 @@ nav{
 
 .navLst{
 	position:relative;
-	margin-left:200px;
-	width:60%;
 	height:100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .Slidroverley{
@@ -292,7 +297,7 @@ nav{
 
 .mynav{
 	display: flex;
-	justify-content: center;
+	justify-content: space-around;
 	align-items: center;
 }
 
@@ -300,6 +305,70 @@ nav{
 	padding:5px 10px;
 	background: #ffc107;
 	text-decoration: none ! important;
-	border-radius: 3px;
-	color:#ffffff;
+	border-radius: 2px;
+	color:#ffffff ! important;
+}
+
+
+.bookNow:hover{
+	background: #ff9800;
+	color: #ffffff;
+}
+
+.callme{
+	position: absolute;
+	right: 16%;
+	color:#ffffff ! important;
+	font-weight: bold;
+}
+
+
+.framWidth{
+	width: 1250px;
+	margin: auto;
+}
+
+.section2{
+	background: #f2f2f2;
+	text-align: center;
+	padding-top:30px;
+}
+
+.cardContainer{
+	margin: 30px 0px;
+	display: flex;
+	justify-content: space-around;
+	align-content: center;
+}
+
+.card{
+	padding: 25px 15px ! important;
+}
+
+.gcard {
+	background-color: #fff;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+	border-radius: 2px;
+	padding-top: 10px;
+	margin: 0 8px 10px 8px;
+	padding: 5px 16px;
+}
+
+.flex{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.myIcon{
+	width: 90px;
+	height: 90px;
+	background: #2a6496;
+	border-radius: 50%;
+	margin: auto;
+	margin-bottom: 15px;
+}
+
+.myIcon > .fa {
+	font-size: 35px;
+	color: #ffffff;
 }
