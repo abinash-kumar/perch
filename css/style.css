@@ -403,8 +403,9 @@ nav{
 
 .section4{
 	background: #2a6496;
-	height:300px;
+	height:350px;
 	text-align: center;
+	position: relative;
 }
 
 .colorWhite{
@@ -428,26 +429,36 @@ nav{
 }
 
 .tetmnNav{
-	position:relative;
-	float:left;
-	width:10%;
-	height:100%;
-	color:#fff;
+	position: absolute;
+	width: 10%;
+	top: 0;
+	height: 100%;
+	color: #fff;
+	right: 0;
 }
 
+tetmnNavLft{
+	position: absolute;
+	width: 10%;
+	top: 0;
+	height: 100%;
+	left: 0;
+}
+
+.tetmnNavLft i{
+	position:absolute;
+	top:50%;
+	font-size:30px;
+	border-radius:50%;
+	left: 5.5%;
+	color: #fff;
+}
 .tetmnNav i{
 	position:absolute;
 	top:50%;
 	font-size:30px;
 	border-radius:50%;
 	left:37%;
-}
-
-.txtSlide{
-	display: table-cell;
-	height:76%;
-	width:100%;
-	vertical-align:middle;
 }
 
 .tetmnlUsers{
@@ -461,6 +472,7 @@ nav{
 }
 
 .txtSlide{
+	margin: auto;
 	position: relative;
 	overflow: hidden;
 }
