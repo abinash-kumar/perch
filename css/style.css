@@ -402,10 +402,11 @@ nav{
 }
 
 .section4{
-	background: #2a6496;
-	height:350px;
-	text-align: center;
 	position: relative;
+	overflow: hidden;
+	background: #2a6496;
+	height:320px;
+	text-align: center;
 }
 
 .colorWhite{
@@ -413,12 +414,6 @@ nav{
 }
 
 
-.tetmnlOverley{
-	position:absolute;
-	background: rgba(0, 0, 0, 0.65);
-	width:100%;
-	height:100%;
-}
 
 .tetmnlContr{
 	float:left;
@@ -428,37 +423,11 @@ nav{
 	color:#fff;
 }
 
-.tetmnNav{
-	position: absolute;
-	width: 10%;
-	top: 0;
-	height: 100%;
-	color: #fff;
-	right: 0;
-}
-
-tetmnNavLft{
-	position: absolute;
-	width: 10%;
-	top: 0;
-	height: 100%;
-	left: 0;
-}
-
-.tetmnNavLft i{
-	position:absolute;
-	top:50%;
-	font-size:30px;
-	border-radius:50%;
-	left: 5.5%;
-	color: #fff;
-}
-.tetmnNav i{
-	position:absolute;
-	top:50%;
-	font-size:30px;
-	border-radius:50%;
-	left:37%;
+.txtSlide{
+	height:76%;
+	width:100%;
+	vertical-align:middle;
+	margin: auto;
 }
 
 .tetmnlUsers{
@@ -472,7 +441,6 @@ tetmnNavLft{
 }
 
 .txtSlide{
-	margin: auto;
 	position: relative;
 	overflow: hidden;
 }
